@@ -170,4 +170,4 @@ MIT
 
 ## Project URL
 
-https://github.com/abdalla-h-SK/github-activity
+https://roadmap.sh/projects/github-user-activity
