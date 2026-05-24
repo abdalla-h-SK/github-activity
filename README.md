@@ -165,3 +165,9 @@ https://api.github.com/users/{username}/events/public
 ## License
 
 MIT
+
+---
+
+## Project URL
+
+https://github.com/abdalla-h-SK/github-activity
